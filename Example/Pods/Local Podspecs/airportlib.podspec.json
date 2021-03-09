@@ -1,0 +1,22 @@
+{
+  "name": "airportlib",
+  "version": "0.1.0",
+  "summary": "A short description of airportlib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MuhammadAkram/airportlib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MuhammadAkram": "akram@channelwebconsulting.com"
+  },
+  "source": {
+    "git": "https://github.com/MuhammadAkram/airportlib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "airportlib/Classes/**/*"
+}
