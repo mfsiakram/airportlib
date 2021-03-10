@@ -1,0 +1,16 @@
+PODS:
+  - AirportLib (0.1.0)
+
+DEPENDENCIES:
+  - AirportLib (from `../`)
+
+EXTERNAL SOURCES:
+  AirportLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AirportLib: 615b9a4826199f148a05d45f5d5b08b771870d2b
+
+PODFILE CHECKSUM: e92e7b894336b69caf6c6469b18a47d48905f22a
+
+COCOAPODS: 1.9.3

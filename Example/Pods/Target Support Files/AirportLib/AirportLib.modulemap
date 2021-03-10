@@ -1,0 +1,6 @@
+framework module AirportLib {
+  umbrella header "AirportLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
